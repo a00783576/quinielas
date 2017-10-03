@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "arturo",
+      "password": "password",
+      "email": "arturo-gutierrez@live.com"
+    },
+    {
+      "id": 2,
+      "username": "test",
+      "password": "test",
+      "email": "test@test.com"
+    },
+    {
+      "id": 3,
+      "username": "test2",
+      "password": "test2",
+      "email": "test2@test2.com"
+    },
+    {
+      "username": "wey",
+      "password": "wey",
+      "email": "wey@wey.com",
+      "id": 4
+    },
+    {
+      "username": "si",
+      "password": "si",
+      "email": "si@si.com",
+      "id": 5
+    }
+  ]
+}
